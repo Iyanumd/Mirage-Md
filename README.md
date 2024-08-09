@@ -5,7 +5,7 @@
   </a>
 </p>
    
-<p align="center">
+ <p align="center">
 
   <a aria-label="Join our channel" href="https://whatsapp.com/channel/0029VaghjWRHVvTh35lfZ817">
     <img alt="whatsapp" src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
@@ -41,12 +41,15 @@
 
 
 ***Free Mongodb URL***
-```
-mongodb+srv://miracle32669:M3264@elisa.ckwel6h.mongodb.net/?retryWrites=true&w=majority&appName=Elisa```
+
+``` mongodb+srv://miracle32669:M3264@elisa.ckwel6h.mongodb.net/?retryWrites=true&w=majority&appName=Elisa```
+
 3.  ***Click [FORK](https://github.com/M3264/Mirage-MD/fork)***
 ## Heroku Deployment Method
+
 4.  ***Deploy on [Heroku](https://mirage-session.onrender.com/)***
 ## Koyeb Deployment Method
+
 5. ***[Deploy on Koyeb](under development) and get API KEY from [here.](https://app.koyeb.com/settings/api)*** .
 
 6. ***Also Deploy on [Replit]( https://repl.it/github/M3264/Mirage-Md)***
